@@ -18,7 +18,7 @@ echo "####################################"
 
 # Committing to the local repository with a message containing the time details and commit text
 
-git commit -m "PKGBUILD UPDATE"
+git commit -m "UPDATE"
 
 # Push the local files to github
 
